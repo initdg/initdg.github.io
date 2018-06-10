@@ -35,5 +35,5 @@ Signing off,
 initdg    
     
 P.S. Everything is composed of 0's and 1's (**mindblown**)
-<img src="https://user-images.githubusercontent.com/40126154/41197634-8f27a31c-6c33-11e8-8a76-c3b59c9ba591.jpg" height="100" width="50">
+<img src="https://user-images.githubusercontent.com/40126154/41197634-8f27a31c-6c33-11e8-8a76-c3b59c9ba591.jpg" height="500" width="300">
 Note to self on markdown styling: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
