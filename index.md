@@ -8,7 +8,7 @@ I hope to progress through my self-study of java and exploration of machine lear
 What exactly is Computer Science? [Here](https://en.wikipedia.org/wiki/Computer_science) is an answer by some of my fellow internet folk:
 
 ```markdown
-### My experience with `coding`:
+**My experience with `coding`**:
 
 1. Python
 2. HTML
