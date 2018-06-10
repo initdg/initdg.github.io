@@ -1,6 +1,6 @@
-## Hello! Welcome to my github site.
+# Hello! Welcome to my github site.
 
-### Introduction
+## Introduction
 
 My name is **initdg** (_dev_). New to the world of computer science, my aim is to explore the possibilities available to me through this formidable enigma known as the web.
 I hope to progress through my self-study of java and exploration of machine learning in the near future.
@@ -9,7 +9,7 @@ What exactly is Computer Science? Here is an answer by some of my fellow interne
 [Computer Science](https://en.wikipedia.org/wiki/Computer_science)
 
 ```markdown
-# My experience with coding:
+### My experience with coding:
 
 1. `Python`
 2. `HTML`
@@ -19,18 +19,18 @@ I'll add an image below later...
 Note to self on markdown styling: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ```
 
-### About Me
+## About Me
 
-# Things I like:
+### Things I like:
 
 - drinking earl grey tea with a long novel in hand and a cat on my lap
 - learning new languages (of the human and computer sort)
 - solving puzzles like those of the Sherlock Holmes or Professor Layton sort
 - diving into questionable ocean waters on a cold day
 
-# On the other hand...
+### On the other hand...
 
 I am not fond of people who say one thing and do another, lack of clarity, and the moments in time I find myself losing my sense of ambition. Or when my tea loses its heat.
 
-### Moving forward
+## Moving forward
 I am not quite sure how I hope to build upon this website but I will return to it every so often. Maybe years from now, I will look upon this as a starting point.
