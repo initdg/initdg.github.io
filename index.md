@@ -24,10 +24,6 @@ My experience with `coding`:
 - learning new languages (of the human and computer sort)
 - diving into questionable ocean waters on a cold day
 
-### On the other hand...
-
-I am not fond of people who say one thing and do another, lack of clarity, and the moments in time I find myself losing my sense of ambition. Or when my tea loses its heat.
-
 ## Moving forward
 "Don't gamble on the future; act now, without delay" -Simone De Beauvoir
 
