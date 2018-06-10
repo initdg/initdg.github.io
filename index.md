@@ -8,14 +8,13 @@ I hope to progress through my self-study of java and exploration of machine lear
 What exactly is Computer Science? [Here](https://en.wikipedia.org/wiki/Computer_science) is an answer by some of my fellow internet folk:
 
 ```markdown
-### My experience with coding:
+### My experience with `coding`:
 
-1. `Python`
-2. `HTML`
+1. Python
+2. HTML
 
 I'll add an image below later...
 ![Image](https://images.freeimages.com/images/large-previews/8cd/binary-code-1-1241810.jpg)
-Format: ![Alt Text](url)
 Note to self on markdown styling: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ```
 
