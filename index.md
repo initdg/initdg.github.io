@@ -5,15 +5,7 @@
 My name is **initdg** (or _dev_ for short). New to the world of computer science, my aim is to explore the possibilities available to me through this formidable enigma known as the web.
 I hope to progress through my self-study of java and exploration of machine learning in the near future.
 
-What exactly is Computer Science? [Here](https://en.wikipedia.org/wiki/Computer_science) is an answer by some of my fellow internet folk:
-
-```markdown
-My experience with `coding`:
-
-1. Python
-2. HTML
-
-```
+What exactly is Computer Science? [This](https://en.wikipedia.org/wiki/Computer_science) is an answer by some of my fellow internet folk.
 
 ## About Me
 
@@ -23,6 +15,14 @@ My experience with `coding`:
 - solving puzzles of the Sherlock Holmes or Professor Layton sort
 - learning new languages (of the human and computer sort)
 - diving into questionable ocean waters on a cold day
+
+```markdown
+My experience with `coding`:
+
+1. Python
+2. HTML
+
+```
 
 ## Moving forward
 "Don't gamble on the future; act now, without delay" -Simone De Beauvoir
