@@ -13,8 +13,8 @@ What exactly is Computer Science? [This](https://en.wikipedia.org/wiki/Computer_
 
 - drinking earl grey tea with a long novel in hand and a cat on my lap
 - solving puzzles of the Sherlock Holmes or Professor Layton sort
-- learning new languages (of the human and computer sort)
 - diving into questionable ocean waters on a cold day
+- learning new languages (of human and computers)
 
 ```markdown
 My experience with `coding`:
