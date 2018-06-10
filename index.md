@@ -1,4 +1,4 @@
-# Hello! Welcome to my github site.
+# Hello! Welcome to my website.
 
 ## Introduction
 
