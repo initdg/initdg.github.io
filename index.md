@@ -31,7 +31,8 @@ I am not fond of people who say one thing and do another, lack of clarity, and t
 ## Moving forward
 I am not quite sure how I hope to build upon this website but I will return to it every so often. Maybe years from now, I will look upon this as a starting point.
 
-Signing off,
+Signing off, 
+
 initdg    
     
 P.S. Everything is composed of 0's and 1's (**mindblown**)
