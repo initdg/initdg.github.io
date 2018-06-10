@@ -32,7 +32,7 @@ I am not fond of people who say one thing and do another, lack of clarity, and t
 I am not quite sure how I hope to build upon this website but I will return to it every so often. Maybe years from now, I will look upon this as a starting point.
 
 Signing off,
-    initdg
+initdg    
     
 P.S. Everything is composed of 0's and 1's (**mindblown**)
 ![Image of 0s and 1s](https://user-images.githubusercontent.com/40126154/41197634-8f27a31c-6c33-11e8-8a76-c3b59c9ba591.jpg)
