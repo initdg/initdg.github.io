@@ -14,7 +14,7 @@ What exactly is Computer Science? [Here](https://en.wikipedia.org/wiki/Computer_
 2. HTML
 
 I'll add an image below later...
-![Image](https://images.freeimages.com/images/large-previews/8cd/binary-code-1-1241810.jpg)
+![Image of 0s and 1s](https://user-images.githubusercontent.com/40126154/41197634-8f27a31c-6c33-11e8-8a76-c3b59c9ba591.jpg)
 Note to self on markdown styling: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ```
 
