@@ -20,8 +20,8 @@ My experience with `coding`:
 ### Things I like:
 
 - drinking earl grey tea with a long novel in hand and a cat on my lap
+- solving puzzles of the Sherlock Holmes or Professor Layton sort
 - learning new languages (of the human and computer sort)
-- solving puzzles like those of the Sherlock Holmes or Professor Layton sort
 - diving into questionable ocean waters on a cold day
 
 ### On the other hand...
