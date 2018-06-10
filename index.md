@@ -2,7 +2,7 @@
 
 ## Introduction
 
-My name is **initdg** (_dev_). New to the world of computer science, my aim is to explore the possibilities available to me through this formidable enigma known as the web.
+My name is **initdg** (or _dev_ for short). New to the world of computer science, my aim is to explore the possibilities available to me through this formidable enigma known as the web.
 I hope to progress through my self-study of java and exploration of machine learning in the near future.
 
 What exactly is Computer Science? [Here](https://en.wikipedia.org/wiki/Computer_science) is an answer by some of my fellow internet folk:
@@ -14,7 +14,7 @@ What exactly is Computer Science? [Here](https://en.wikipedia.org/wiki/Computer_
 2. `HTML`
 
 I'll add an image below later...
-![Image](src)
+![Zeroes and Ones](https://images.freeimages.com/images/large-previews/8cd/binary-code-1-1241810.jpg)
 Note to self on markdown styling: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ```
 
