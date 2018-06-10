@@ -5,8 +5,7 @@
 My name is **initdg** (_dev_). New to the world of computer science, my aim is to explore the possibilities available to me through this formidable enigma known as the web.
 I hope to progress through my self-study of java and exploration of machine learning in the near future.
 
-What exactly is Computer Science? Here is an answer by some of my fellow internet folk:
-[Computer Science](https://en.wikipedia.org/wiki/Computer_science)
+What exactly is Computer Science? [Here](https://en.wikipedia.org/wiki/Computer_science) is an answer by some of my fellow internet folk:
 
 ```markdown
 ### My experience with coding:
