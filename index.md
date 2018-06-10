@@ -29,7 +29,7 @@ My experience with `coding`:
 I am not fond of people who say one thing and do another, lack of clarity, and the moments in time I find myself losing my sense of ambition. Or when my tea loses its heat.
 
 ## Moving forward
-I am not quite sure how I hope to build upon this website but I will return to it every so often. Maybe years from now, I will look upon this as a starting point.
+"Don't gamble on the future; act now, without delay" -Simone De Beauvoir
 
 
 _Signing off,_
