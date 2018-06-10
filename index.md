@@ -13,9 +13,6 @@ What exactly is Computer Science? [Here](https://en.wikipedia.org/wiki/Computer_
 1. Python
 2. HTML
 
-I'll add an image below later...
-![Image of 0s and 1s](https://user-images.githubusercontent.com/40126154/41197634-8f27a31c-6c33-11e8-8a76-c3b59c9ba591.jpg)
-Note to self on markdown styling: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ```
 
 ## About Me
@@ -33,3 +30,7 @@ I am not fond of people who say one thing and do another, lack of clarity, and t
 
 ## Moving forward
 I am not quite sure how I hope to build upon this website but I will return to it every so often. Maybe years from now, I will look upon this as a starting point.
+
+I'll add an image below later...
+![Image of 0s and 1s](https://user-images.githubusercontent.com/40126154/41197634-8f27a31c-6c33-11e8-8a76-c3b59c9ba591.jpg)
+Note to self on markdown styling: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
