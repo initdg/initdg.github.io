@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Hello! Welcome to my github site.
 
-You can use the [editor on GitHub](https://github.com/initdg/initdg.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is **initdg** (_dev_). New to the world of computer science, my aim is to explore the possibilities available to me through this formidable enigma known as the web.
+I hope to progress through my self-study of java and exploration of machine learning in the near future.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+What exactly is Computer Science? Here is an answer by some of my fellow internet folk:
+[Computer Science](https://en.wikipedia.org/wiki/Computer_science)
 
 ```markdown
-Syntax highlighted code block
+# My experience with coding:
 
-# Header 1
-## Header 2
-### Header 3
+1. `Python`
+2. `HTML`
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+I'll add an image below later...
+![Image](src)
+Note to self on markdown styling: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### About Me
 
-### Jekyll Themes
+# Things I like:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/initdg/initdg.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- drinking earl grey tea with a long novel in hand and a cat on my lap
+- learning new languages (of the human and computer sort)
+- solving puzzles like those of the Sherlock Holmes or Professor Layton sort
+- diving into questionable ocean waters on a cold day
 
-### Support or Contact
+# On the other hand...
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I am not fond of people who say one thing and do another, lack of clarity, and the moments in time I find myself losing my sense of ambition. Or when my tea loses its heat.
+
+### Moving forward
+I am not quite sure how I hope to build upon this website but I will return to it every so often. Maybe years from now, I will look upon this as a starting point.
